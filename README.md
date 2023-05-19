@@ -2,7 +2,7 @@
 
 ### Kevin Wilkinghoff, Alessia Cornaggia-Urrigshardt
 
-This repository contains the dataset KWS-DailyTalk used in our [paper](https://arxiv.org/abs/2305.10816). KWS-DailyTalk contains a selection of speech files from [DailyTalk](https://github.com/keonlee9420/DailyTalk) with manually annotated keywords for few-shot keyword spotting.
+This repository contains the dataset KWS-DailyTalk used in our [paper](https://arxiv.org/abs/2305.10816). KWS-DailyTalk contains a selection of speech files from [DailyTalk](https://github.com/keonlee9420/DailyTalk) with manually annotated keywords for few-shot keyword spotting. The goal is to train a model using the keywords provided for training and detect all keywords in the validation and test sentences.
 
 # Dataset
 The dataset is split into a train set, a validation set and a test set.
