@@ -1,4 +1,4 @@
-# TempAdaCos: Learning Temporally Structured Embeddings for Few-Shot Keyword Spotting with Dynamic Time Warping
+# TACos: Learning Temporally Structured Embeddings for Few-Shot Keyword Spotting with Dynamic Time Warping
 
 ### Kevin Wilkinghoff, Alessia Cornaggia-Urrigshardt
 
