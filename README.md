@@ -12,6 +12,16 @@ The validation set and test set each have a duration of about 10 minutes and con
 # References
 If you are using parts of this work, please cite the [original work](https://ieeexplore.ieee.org/document/10095751) on DailyTalk as well as [ours](https://arxiv.org/abs/2305.10816):
 
+@inproceedings{lee2023dailytalk,
+  author       = {Keon Lee and
+                  Kyumin Park and
+                  Daeyoung Kim},
+  title        = {{D}aily{T}alk: {S}poken Dialogue Dataset for Conversational Text-to-Speech},
+  booktitle    = {International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  publisher    = {{IEEE}},
+  year         = {2023}
+}
+
 @inproceedings{wilkinghoff2024tacos,
   author = {Wilkinghoff, Kevin and Cornaggia-Urrigshardt, Alessia},
   title  = {{T}{A}{C}os: {L}earning Temporally Structured Embeddings for Few-Shot Keyword Spotting with Dynamic Time Warping},
